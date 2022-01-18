@@ -10,7 +10,7 @@ elif znak == "-":
     print("Ваш ответ: ", first_num - second_num)
 
 elif znak == "/":
-    print("Ваш ответ: ", first_num * second_num)
+    print("Ваш ответ: ", first_num / second_num)
 
 else:
     print("error")
